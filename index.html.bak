@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src='https://kit.fontawesome.com/a076d05399.js'></script>
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Resume - Muhammad Usman Khan</title>
+
+
+    <!-- favicon -->
+    <link href="favicon.png" rel=icon>
+
+    <!-- web-fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Hind:300,400,500,600,700" rel="stylesheet">
+
+    <!-- font-awesome -->
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Style CSS -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body id="page-top" data-spy="scroll" data-target=".navbar">
+<div id="main-wrapper">
+<!-- Page Preloader -->
+<div id="preloader">
+    <div id="status">
+        <div class="status-mes"></div>
+    </div>
+</div>
+
+<div class="columns-block">
+<div class="left-col-block blocks">
+    <header class="header">
+        <div class="content text-center">
+            <h1 style="color:maroon; -webkit-text-stroke-width: 1.7px;-webkit-text-stroke-color: white;">Hi, I'm Muhammad Usman Khan!</h1>
+
+            <h2 style="color:blue; -webkit-text-stroke-width: 1.3px;-webkit-text-stroke-color: white;"><b>Senior Software Engineer</b></h2>
+            <ul class="social-icon">
+                <li ><a href="https://www.facebook.com/usmanvilla07"><i class="fa fa-facebook" aria-hidden="true" style="color:#3B5998; ; display:block; font-size: 12px;width: 34px; height: 34px;line-height: 33px;text-align: center;border-radius : 100%; background-color:white; border:2px solid rgba(59, 89, 152, .5)"></i></a></li>
+                <li><a href="https://twitter.com/usmanvilla07"><i class="fa fa-twitter" aria-hidden="true"  style="color:#1DA1F2; display:block; font-size: 12px;width: 34px; height: 34px;line-height: 33px;text-align: center;border-radius : 100%;background-color:white; border:2px solid rgba(29, 161, 242, .5)"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/usmanvilla07/"><i class="fa fa-linkedin" aria-hidden="true" style="color:#0077B5; display:block; font-size: 12px;width: 34px; height: 34px;line-height: 33px;text-align: center;background-color:white;border-radius : 100%; border:2px solid rgba(0, 119, 181, .5)"></i></a></li>
+		<li><a href="https://github.com/usmankhi18"><i class="fa fa-github" aria-hidden="true" style="color:#333; display:block; font-size: 12px;width: 34px; height: 34px;line-height: 33px;text-align: center;background-color:white;border-radius : 100%; border:2px solid rgba(51, 51, 51, .5)"></i></a></li>
+            </ul>
+        </div>
+		
+		<div class="profile-img"></div>
+		
+		
+    </header>
+    <!-- .header-->
+</div>
+
+
+<div class="right-col-block blocks">
+<section class="intro section-wrapper">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-title">
+                    <h2>What I am all about.</h2>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <p>
+                   A results-driven, customer-focused, articulate, and analytical Software Engineer having more than 5 Years of experience in the vast field of Computer Science who can think "out of the box." Strong in design and integration problem-solving skills with Optimization Techniques and Safety Measures. Expert in C#, Java, Android (Native), Ionic (Hybrid Mobile Application Development), and .NET with database analysis and design.
+
+                </p>
+
+                <p>
+                    Skilled in developing business plans, requirements specifications, user documentation, and architectural systems research. Strong written and verbal communication. Interested in a challenging technical track career in an application development environment.
+                </p>
+            </div>
+        </div>
+    </div>
+	<a class="btn btn-primary" href="docs/cv.pdf" id="downlowd" style="margin: 5px"><i class="fa fa-download icon_print"></i> Download CV </a>
+	<a class="btn btn-primary" href="docs/resume.pdf" id="downlowd" style="margin: 5px; visibility:hidden"><i class="fa fa-download icon_print"></i> Download Resume </a>
+
+
+	
+</section>
+
+
+<section class="expertise-wrapper section-wrapper gray-bg">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-title">
+                    <h2>Technical Skills</h2>
+                </div>
+            </div>
+        </div>
+        <!-- .row -->
+
+        <b>• Programming Languages:</b> C# , Java.
+		<b>• Dot Net:</b> C#.Net, Dot Net Core, .NET 6, ASP.Net, Desktop and Web Applications, MVC Framework, Onion Architecture, Entity Framework, WCF Services, Windows Service, Angular, Middlewares and Crystal Reports.
+		<b>• Android:</b> Activities, Fragments, Google Maps, Firebase Integration, Ionic Cordova Plugins.
+		<b>• Database:</b> SQL Server, Oracle SQL Developer.
+		<b>• Version Control:</b> Git, SVN, TFS.
+		<b>• Cloud:</b> AWS EC2, IAM, AWS AppConfig, Cognito, Lambda, API Gateway. Serverless.
+		<b>• Concepts:</b> UML, Interfaces, OOP, Design Patterns, Reverse Engineering, Clean Architecture and SOLID Principles.
+    </div>
+    <!--.container-fluid-->
+</section>
+<!-- .expertise-wrapper -->
+
+<section class="section-wrapper section-experience gray-bg" style="color:black">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-title"><h2>Work Experience</h2></div>
+            </div>
+        </div>
+        <!--.row-->
+        <div class="row">
+            <div class="col-md-12">
+				<!-- .experience-item - Lead Application Developer - TPS Worldwide -->
+                <div class="content-item">
+				<table style = "display:block">
+				<tbody style = "display:block">
+				<tr style="display:  flex;">
+				<td style="flex:  50%;">
+                    <small>January 2022 - Present</small>
+                    <h3>Lead Application Developer</h3>
+                    <h4><a href="https://www.tpsworldwide.com/" width="120px">TPS Worldwide</a></h4>
+                    <p>Karachi, Pakistan</p>
+					</td>
+					<td>
+					<img src="img/tps.png" alt="TPS Logo" width="120px"/>
+					</td>
+					</tr>
+					</tbody>
+					</table>
+					Promoted to Lead Application Developer.
+					<h4 style="padding-top:7px; padding-bottom:7px">Responsibilities:</h4>
+					 <ul style=" padding-left:35px; list-style-type:circle">
+							<li>Manage Teams for Different Bank Support.</li>
+							<li>Develop Internal Projects for Company Management and Improvement.</li>
+							<li>Learn new technologies and provide documentation and training to other employees.</li>
+							<li>Code Review.</li>
+					 </ul>
+					 <h4 style="padding-top:7px; padding-bottom:7px">Achievement:</h4>
+					<ul style=" padding-left:35px; list-style-type:circle">
+						<li>Experienced in the Payment Domain.</li>
+						<li>Learn AWS.</li>
+						<li>Part of the Road-map Team for Research and Development.</li>
+						<li>Develop Company’s Future Work Prototypes.</li>
+					</ul>
+                </div>
+				<!-- .experience-item - Senior Software Engineer - TPS Worldwide -->
+                <div class="content-item">
+				<table style = "display:block">
+				<tbody style = "display:block">
+				<tr style="display:  flex;">
+				<td style="flex:  50%;">
+                    <small>February 2021 - December 2021</small>
+                    <h3>Senior Software Engineer</h3>
+                    <h4><a href="https://www.tpsworldwide.com/" width="120px">TPS Worldwide</a></h4>
+                    <p>Karachi, Pakistan</p>
+					</td>
+					<td>
+					<img src="img/tps.png" alt="TPS Logo" width="120px"/>
+					</td>
+					</tr>
+					</tbody>
+					</table>
+					Joined as .NET Developer working on different Banking Products like Remittance, Digital Banking, and Mobile Money.
+					<h4 style="padding-top:7px; padding-bottom:7px">Responsibilities:</h4>
+					<ul style=" padding-left:35px; list-style-type:circle">
+						<li>Develop Internal Projects for Company Management and Improvement.</li>
+						<li>Implement Solution provided by the business team.</li>
+						<li>Code Review.</li>
+					</ul>
+					<h4 style="padding-top:7px; padding-bottom:7px">Achievement:</h4>
+					<ul style=" padding-left:35px; list-style-type:circle">
+						<li>Archive multiple milestones in strict timelines.</li>
+						<li>Learn NodeJS and C++.</li>
+					</ul>
+                </div>
+				<!-- .experience-item - Software Engineer - Zultec -->
+                <div class="content-item">
+				<table style = "display:block">
+				<tbody style = "display:block">
+				<tr style="display:  flex;">
+				<td style="flex:  50%;">
+                    <small>January 2020 - January 2021</small>
+                    <h3>Software Engineer</h3>
+                    <h4><a href="http://zultec.com/" width="120px">Zultec Group</a></h4>
+                    <p>Karachi, Pakistan</p>
+					</td>
+					<td>
+					<img src="img/zultec.png" alt="Zultec Logo" width="120px"/>
+					</td>
+					</tr>
+					</tbody>
+					</table>
+					Joined as .NET and Android Developer.
+					<h4 style="padding-top:7px; padding-bottom:7px">Responsibilities:</h4>
+					 <ul style=" padding-left:35px; list-style-type:circle">
+							<li>Maintain multiple Backend Systems on .NET.</li>
+							<li>Add Features to their ERP.</li>
+							<li>Database Stored Procedures Updation and Creation.</li>
+							<li>Develop Android Applications from Scratch.</li>
+							<li>Branch Merging.</li>
+							<li>Bug Resolutions.</li>
+							<li>Client Dealing.</li>
+					 </ul>
+					 <h4 style="padding-top:7px; padding-bottom:7px">Achievement:</h4>
+					<ul style=" padding-left:35px; list-style-type:circle">
+						<li>Experience multiple flavors of development.</li>
+						<li>Learn Hardware Integration.</li>
+					</ul>
+                </div>
+				<!-- .experience-item - Software Engineer - Keenu -->
+                <div class="content-item">
+				<table style = "display:block">
+				<tbody style = "display:block">
+				<tr style="display:  flex;">
+				<td style="flex:  50%;">
+                    <small>April 2018 - January 2020</small>
+                    <h3>Software Engineer</h3>
+                    <h4><a href="https://www.keenu.pk/" width="120px">Keenu</a></h4>
+                    <p>Karachi, Pakistan</p>
+					</td>
+					<td>
+					<img src="img/keenu-profile.png" alt="Keenu Logo"/>
+					</td>
+					</tr>
+					</tbody>
+					</table>
+					Joined as Android Developer on Ionic Framework then moved to Back-end Development on .NET Framework.
+					<h4 style="padding-top:7px; padding-bottom:7px">Responsibilities:</h4>
+					<ul style=" padding-left:35px; list-style-type:circle">
+						<li>Add Features to their ERP.</li>
+						<li>Database Stored Procedures Updation and Creation.</li>
+						<li>Develop Plugins for Keenu Wallet App.</li>
+						<li>Branch Merging</li>
+						<li>Bug Resolutions</li>
+					</ul>
+					<h4 style="padding-top:7px; padding-bottom:7px">Achievement:</h4>
+					<ul style=" padding-left:35px; list-style-type:circle">
+						<li>Introduced to Payment Domain.</li>
+						<li>Learn .NET Core.</li>
+					</ul>
+                </div>
+                <!-- .experience-item - Application Engineer - Minhasoft -->
+                <div class="content-item">
+				<table style = "display:block">
+				<tbody style = "display:block">
+				<tr style="display:  flex;">
+				<td style="flex:  50%;">
+                    <small>August 2017 - March 2018</small>
+                    <h3>Application Engineer</h3>
+                    <h4><a href="http://minhasoft.com/">Minhasoft</a></h4>
+					<p>Karachi, Pakistan</p>
+					</td>
+					<td>
+					<img src="img/minhasoft.png" alt="Minhasoft Logo" width="120px"/>
+					</td>
+					</tr>
+					</tbody>
+					</table>
+					Joined as .NET Intern and then got confirmed as an Application Engineer.
+                    <h4 style="padding-top:7px; padding-bottom:7px">Responsibilities:</h4>
+					<ul style=" padding-left:35px; list-style-type:circle">
+						<li>Add Features in the Point Of Sales System.</li>
+						<li>Database Stored Procedures Updating and Creation.</li>
+						<li>Develop Android Applications From Scratch.</li>
+						<li>Bug Resolutions</li>
+					</ul>
+					<h4 style="padding-top:7px; padding-bottom:7px">Achievement:</h4>
+					<ul style=" padding-left:35px; list-style-type:circle">
+						<li>Learn Android Development.</li>
+						<li>2 Apps Available on PlayStore.</li>
+					</ul>
+                </div>
+            </div>
+        </div>
+        <!--.row-->
+    </div>
+    <!-- .container-fluid -->
+
+</section>
+<!-- .section-experience -->
+
+<section class="section-wrapper section-education" style="color:black">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-title">
+				<h2>Education</h2></div>
+            </div>
+        </div>
+        <!--.row-->
+        <div class="row">
+            <div class="col-md-12">
+				<!-- .eduacation-item - Bachelors -->
+                <div class="content-item">
+				<div class="content-item">
+				<table style = "display:block">
+				<tbody style = "display:block">
+				<tr style="display:  flex;">
+				<td style="flex:  50%;">
+                    <small>2013 - 2017</small>
+                    <h3>Bachelor of Science in Computer Science</h3>
+                    <h4><a href="http://www.dsu.edu.pk/index.php/en/">DHA Suffa University</a></h4>
+
+                    <p>Karachi, Pakistan</p>
+					</td>
+					<td>
+					<img src="img/dsu.png" alt="DSU Logo" width="120px"/>
+					</td>
+					</tr>
+					</tbody>
+					</table>
+                </div>
+                <!-- .eduacation-item - Certification -->
+                <div class="content-item">
+				<div class="content-item">
+				<table style = "display:block">
+				<tbody style = "display:block">
+				<tr style="display:  flex;">
+				<td style="flex:  50%;">
+                    <small>2015</small>
+                    <h3>Certification - Android Development</h3>
+					<h4><a href="http://aptech-education.com.pk/">Aptech Computer Education</a></h4>
+
+                    <p>Karachi, Pakistan</p>
+					</td>
+					<td>
+					<img src="img/aptech.png" alt="Aptech Logo" width="120px"/>
+					</td>
+					</tr>
+					</tbody>
+					</table>
+                </div>
+                <!-- .eduacation-item - Intermediate -->
+                <div class="content-item">
+				<div class="content-item">
+				<table style = "display:block">
+				<tbody style = "display:block">
+				<tr style="display:  flex;">
+				<td style="flex:  50%;">
+                    <small>2011 - 2013</small>
+                    <h3>Intermediate - Pre-Engineering</h3>
+					<h4><a href="https://www.facebook.com/pechscollege/">PECHS Government Foundation College</a></h4>
+
+                    <p>Karachi, Pakistan</p>
+					</td>
+					<td>
+					<img src="img/pechs.png" alt="PECHS Logo" width="120px"/>
+					</td>
+					</tr>
+					</tbody>
+					</table>
+                </div>
+                <!-- .eduacation-item - School -->
+                <div class="content-item">
+				<div class="content-item">
+				<table style = "display:block">
+				<tbody style = "display:block">
+				<tr style="display:  flex;">
+				<td style="flex:  50%;">
+                    <small>2008 - 2010</small>
+                    <h3>Matriculation - Computer Science</h3>
+					<h4><a href="http://pss.edu.pk/">Practical Schooling System</a></h4>
+
+                    <p>Karachi, Pakistan</p>
+					</td>
+					<td>
+					<img src="img/pss.png" alt="PSS Logo" width="120px"/>
+					</td>
+					</tr>
+					</tbody>
+					</table>
+                </div>
+            </div>
+        </div>
+        <!--.row-->
+    </div>
+    <!-- .container-fluid -->
+
+</section>
+<!-- .section-education -->
+
+<section class="section-contact section-wrapper gray-bg">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-title">
+                    <h2>Contact</h2>
+                </div>
+            </div>
+        </div>
+        <!--.row-->
+        <div class="row">
+            <div class="col-md-12" style="color:black">
+                <address>
+                    <strong>Address</strong><br>
+                    Karachi, Pakistan
+                </address>
+                <address>
+                    <strong>Mobile Number</strong><br>
+                    +92 320 3083843<br>
+					+92 336 3302274
+                </address>
+
+                <address>
+                    <strong>Email</strong><br>
+                    <a href="mailto:usman.khi18@hotmail.com">usman.khi18@hotmail.com</a>
+                </address>
+            </div>
+        </div>
+        <!--.row-->
+    </div>
+    <!--.container-fluid-->
+</section>
+<!--.section-contact-->
+
+<footer class="footer">
+    <div class="copyright-section">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="copytext">&copy; 2020 Muhammad Usman Khan CV. All rights reserved | Design By: Muhammad Usman Khan</div>
+                </div>
+            </div>
+            <!--.row-->
+        </div>
+        <!-- .container-fluid -->
+    </div>
+    <!-- .copyright-section -->
+</footer>
+<!-- .footer -->
+</div>
+<!-- .right-col-block -->
+</div>
+<!-- .columns-block -->
+</div>
+<!-- #main-wrapper -->
+
+<!-- jquery -->
+<script src="js/jquery-2.1.4.min.js"></script>
+
+<!-- Bootstrap -->
+<script src="js/bootstrap.min.js"></script>
+<script src="js/scripts.js"></script>
+
+</body>
+</html>
