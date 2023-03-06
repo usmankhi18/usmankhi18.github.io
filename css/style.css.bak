@@ -183,7 +183,7 @@ button:focus,
     }
 
 .right-col-block {
-    width      : 65%;
+    width      : 70%;
     position   : absolute;
     right      : 0;
     box-shadow : -10px -10px 30px rgba(0, 0, 0, 0.23);
