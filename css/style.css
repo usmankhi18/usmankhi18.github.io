@@ -72,12 +72,14 @@ h6 {
  * LINK STYLE
  *------------------------------------------*/
 a {
-    color              : #2a54f5;
-    text-decoration    : none;
-    -webkit-transition : all 0.3s ease 0s;
-    -moz-transition    : all 0.3s ease 0s;
-    -o-transition      : all 0.3s ease 0s;
-    transition         : all 0.3s ease 0s;
+    	color              : #2a54f5;
+   	text-decoration    : none;
+    	-webkit-transition : all 0.3s ease 0s;
+    	-moz-transition    : all 0.3s ease 0s;
+    	-o-transition      : all 0.3s ease 0s;
+    	transition         : all 0.3s ease 0s;
+	position           : relative; /* Ensure the links are positioned */
+    	z-index            : 10; /* Higher z-index value to be on top of other elements */
     }
 
 a,
